@@ -38,6 +38,28 @@ git clone https://github.com/ananyaashettyy/text-to-handwriting.git
 cd text-to-handwriting
 ```
 
+
+## Display
+
+
+
+<img width="869" height="559" alt="Screenshot 2025-10-16 102334" src="https://github.com/user-attachments/assets/07ba94ef-787f-4b5e-9c0a-259988637b46" />
+
+
+
+
+
+
+<img width="824" height="514" alt="Screenshot 2025-10-16 102345" src="https://github.com/user-attachments/assets/e5332ed9-82bd-4ddb-b753-e2974278315a" />
+
+
+
+
+
+
+
+
+
 ##  License
 
 This project is open source under the **MIT License**.  
