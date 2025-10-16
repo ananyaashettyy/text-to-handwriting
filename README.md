@@ -33,5 +33,7 @@ A **web-based Text-to-Handwriting application** that converts typed or pasted te
 
 ```bash
 git clone https://github.com/ananyaashettyy/text-to-handwriting.git
-
+```
+```bash
 cd text-to-handwriting
+```
